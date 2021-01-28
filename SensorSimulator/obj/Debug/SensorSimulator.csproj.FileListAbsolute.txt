@@ -1,0 +1,15 @@
+
+C:\Users\RAMESH\Desktop\Oracle\Oracle\SensorSimulator\SensorSimulator\bin\Debug\SensorSimulator.exe.config
+C:\Users\RAMESH\Desktop\Oracle\Oracle\SensorSimulator\SensorSimulator\bin\Debug\SensorSimulator.exe
+C:\Users\RAMESH\Desktop\Oracle\Oracle\SensorSimulator\SensorSimulator\bin\Debug\SensorSimulator.pdb
+C:\Users\RAMESH\Desktop\Oracle\Oracle\SensorSimulator\SensorSimulator\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\RAMESH\Desktop\Oracle\Oracle\SensorSimulator\SensorSimulator\obj\Debug\SensorSimulator.csprojAssemblyReference.cache
+C:\Users\RAMESH\Desktop\Oracle\Oracle\SensorSimulator\SensorSimulator\obj\Debug\SensorSimulator.Form2.resources
+C:\Users\RAMESH\Desktop\Oracle\Oracle\SensorSimulator\SensorSimulator\obj\Debug\SensorSimulator.Form3.resources
+C:\Users\RAMESH\Desktop\Oracle\Oracle\SensorSimulator\SensorSimulator\obj\Debug\SensorSimulator.Properties.Resources.resources
+C:\Users\RAMESH\Desktop\Oracle\Oracle\SensorSimulator\SensorSimulator\obj\Debug\SensorSimulator.csproj.GenerateResource.cache
+C:\Users\RAMESH\Desktop\Oracle\Oracle\SensorSimulator\SensorSimulator\obj\Debug\SensorSimulator.csproj.CoreCompileInputs.cache
+C:\Users\RAMESH\Desktop\Oracle\Oracle\SensorSimulator\SensorSimulator\obj\Debug\SensorSimulator.csproj.CopyComplete
+C:\Users\RAMESH\Desktop\Oracle\Oracle\SensorSimulator\SensorSimulator\obj\Debug\SensorSimulator.exe
+C:\Users\RAMESH\Desktop\Oracle\Oracle\SensorSimulator\SensorSimulator\obj\Debug\SensorSimulator.pdb
+C:\Users\RAMESH\Desktop\Oracle\Oracle\SensorSimulator\SensorSimulator\obj\Debug\SensorSimulator.frmMain.resources
